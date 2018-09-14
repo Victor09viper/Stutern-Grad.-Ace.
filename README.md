@@ -1,7 +1,7 @@
-# hello-world
+# Stutern Graduate Ac.
 ==============
 
-Just another Resporitory
+Lesson 1
 
 <!DOCTYPE html>
 <head>
